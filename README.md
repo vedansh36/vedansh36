@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Vedansh Arora
 
-<!--
-**vedansh36/vedansh36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Information Technology student passionate about building scalable full-stack applications and AI-powered systems. I enjoy solving complex engineering problems, exploring LLMs, and turning ideas into practical products.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- Building AI-powered applications using LangGraph and FastAPI
+- Exploring RAG, AI agents, and conversational data analytics
+- Preparing for Software Engineering roles while solving DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Languages:** C++, Python, JavaScript, TypeScript, SQL
+
+**Frameworks:** React, Next.js, FastAPI, Node.js, LangChain, LangGraph
+
+**Databases:** PostgreSQL, MongoDB, Supabase, DuckDB
+
+**Tools:** Git, Docker, Postman, Tailwind CSS
+
+## 📫 Connect With Me
+- 📧 Email: vedansharora369@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/vedansh-arora/
+- 🧩 LeetCode: https://leetcode.com/u/_vedansh_/
